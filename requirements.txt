@@ -1,0 +1,6 @@
+ollama==0.3.3 # used for local inference
+chromadb==0.5.20 # vector database
+sentence-transformers==3.3.1 # CrossEncoder Re-ranker
+langchain-community==0.3.7 # utils for text splitting
+PyMuPDF==1.24.14 # PDF parsing
+streamlit==1.40.1 # web UI
